@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHARP_Exam", "CSHARP_Exam.csproj", "{535AF605-C3C5-4AAC-B954-EAF8D839E53C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSHARP_ExamTests", "..\CSHARP_ExamTests\CSHARP_ExamTests.csproj", "{CA455498-7342-4948-A02B-1D84E8F3E741}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Program", "Program", "{FC471739-FB2A-4E4A-9324-47280050F3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535AF605-C3C5-4AAC-B954-EAF8D839E53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535AF605-C3C5-4AAC-B954-EAF8D839E53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535AF605-C3C5-4AAC-B954-EAF8D839E53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535AF605-C3C5-4AAC-B954-EAF8D839E53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA455498-7342-4948-A02B-1D84E8F3E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA455498-7342-4948-A02B-1D84E8F3E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA455498-7342-4948-A02B-1D84E8F3E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA455498-7342-4948-A02B-1D84E8F3E741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{535AF605-C3C5-4AAC-B954-EAF8D839E53C} = {FC471739-FB2A-4E4A-9324-47280050F3F9}
+		{CA455498-7342-4948-A02B-1D84E8F3E741} = {FC471739-FB2A-4E4A-9324-47280050F3F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5393FD-76D5-4D5E-B0ED-B437E826713B}
+	EndGlobalSection
+EndGlobal

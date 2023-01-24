@@ -1,0 +1,17 @@
+Receipt number: 8136701c-aad1-4a4e-a6e6-9c5692b14575;
+Table number: 13;
+Seats taken: 6/8;
+Time: 2023-01-24 21:55:35;
+Order details:
+Wine - 2,8
+Wine - 2,8
+Beer - 3
+Wine - 2,8
+Coffee - 2
+Coffee - 2
+Garlic baguette - 1,3
+Garlic baguette - 1,3
+Chicken soup - 1,4
+Chilli soup - 1,8
+Garlic baguette - 1,3
+Chicken soup - 1,4

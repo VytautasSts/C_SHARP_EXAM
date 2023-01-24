@@ -1,0 +1,15 @@
+Receipt number: 782e25a6-aa76-4fff-b353-1a822e27c7e9;
+Table number: 8;
+Seats taken: 2/2;
+Time: 2023-01-24 22:09:47;
+Order details:
+Juice - 2,2
+Coffee - 2
+Chilli soup - 1,8
+House sandwitch - 2
+Pizza - 5,4
+Ribs - 6,2
+Milk shake - 1,9
+Milk shake - 1,9
+Wine - 2,8
+Wine - 2,8

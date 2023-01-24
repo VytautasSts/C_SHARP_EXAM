@@ -1,0 +1,10 @@
+Receipt number: 8ec43f1e-69fb-4722-b2db-a6d2ec928341;
+Table number: 12;
+Seats taken: 4/4;
+Time: 2023-01-24 22:10:58;
+Order details:
+Coffee - 2
+Wine - 2,8
+Wine - 2,8
+Juice - 2,2
+House sandwitch - 2

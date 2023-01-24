@@ -1,0 +1,20 @@
+Receipt number: a3d47c72-d2de-4f00-985c-016af76920ae;
+Table number: 10;
+Seats taken: 3/4;
+Time: 2023-01-24 20:58:43;
+Order details:
+Wine - 2,8
+Wine - 2,8
+Beer - 3
+Chilli soup - 1,8
+House sandwitch - 2
+Garlic baguette - 1,3
+Salad - 3,6
+Fish - 4,2
+Ribs - 6,2
+Ice cream - 2
+Milk shake - 1,9
+Apple pie - 2,3
+Coffee - 2
+Beer - 3
+Wine - 2,8

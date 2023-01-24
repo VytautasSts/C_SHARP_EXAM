@@ -1,0 +1,49 @@
+Receipt number: 2e956565-7264-40f1-97ca-b633a8e4c5bf;
+Table number: 15;
+Seats taken: 11/16;
+Time: 2023-01-24 20:58:55;
+Order details:
+Beer - 3
+Beer - 3
+Juice - 2,2
+Juice - 2,2
+Wine - 2,8
+Beer - 3
+Wine - 2,8
+Wine - 2,8
+Beer - 3
+Juice - 2,2
+Beer - 3
+Chicken soup - 1,4
+Chicken soup - 1,4
+Chilli soup - 1,8
+Garlic baguette - 1,3
+House sandwitch - 2
+Chilli soup - 1,8
+Garlic baguette - 1,3
+Chilli soup - 1,8
+Chicken soup - 1,4
+Garlic baguette - 1,3
+Garlic baguette - 1,3
+Salad - 3,6
+Pizza - 5,4
+Salad - 3,6
+Salad - 3,6
+Salad - 3,6
+Salad - 3,6
+Ribs - 6,2
+Fish - 4,2
+Pizza - 5,4
+Ribs - 6,2
+Salad - 3,6
+Pudding - 2,1
+Ice cream - 2
+Milk shake - 1,9
+Pudding - 2,1
+Milk shake - 1,9
+Pudding - 2,1
+Apple pie - 2,3
+Pudding - 2,1
+Ice cream - 2
+Pudding - 2,1
+Pudding - 2,1

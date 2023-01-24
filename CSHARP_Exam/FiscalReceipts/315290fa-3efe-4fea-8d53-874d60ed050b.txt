@@ -1,0 +1,7 @@
+Receipt number: 315290fa-3efe-4fea-8d53-874d60ed050b;
+Table number: 8;
+Seats taken: 2/2;
+Time: 2023-01-24 21:55:47;
+Order details:
+Beer - 3
+Juice - 2,2

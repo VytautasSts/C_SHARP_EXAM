@@ -1,0 +1,15 @@
+Receipt number: 70e36103-2901-490a-96e4-52abe67c5732;
+Table number: 7;
+Seats taken: 2/2;
+Time: 2023-01-24 22:09:37;
+Order details:
+Beer - 3
+Coffee - 2
+Chilli soup - 1,8
+Chicken soup - 1,4
+Salad - 3,6
+Pizza - 5,4
+Milk shake - 1,9
+Pudding - 2,1
+Wine - 2,8
+Juice - 2,2

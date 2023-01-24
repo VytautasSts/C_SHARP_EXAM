@@ -1,0 +1,19 @@
+Receipt number: 92066961-6971-4ad9-a385-362358e38279;
+Table number: 15;
+Seats taken: 14/16;
+Time: 2023-01-24 22:11:07;
+Order details:
+Juice - 2,2
+Beer - 3
+Coffee - 2
+Beer - 3
+Coffee - 2
+Juice - 2,2
+Beer - 3
+Coffee - 2
+Beer - 3
+Coffee - 2
+Beer - 3
+Juice - 2,2
+Wine - 2,8
+Beer - 3

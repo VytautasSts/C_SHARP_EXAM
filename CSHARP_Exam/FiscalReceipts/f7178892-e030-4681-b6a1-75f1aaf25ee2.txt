@@ -1,0 +1,11 @@
+Receipt number: f7178892-e030-4681-b6a1-75f1aaf25ee2;
+Table number: 6;
+Seats taken: 2/2;
+Time: 2023-01-24 21:55:32;
+Order details:
+Coffee - 2
+Beer - 3
+House sandwitch - 2
+Chicken soup - 1,4
+Fish - 4,2
+Pizza - 5,4
